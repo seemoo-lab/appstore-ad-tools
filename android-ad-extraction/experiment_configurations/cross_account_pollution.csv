@@ -1,0 +1,2 @@
+control_account_email,control_account_email_successor,control_device_serial,treatment_account_email,treatment_account_email_successor,treatment_device_serial,group_id,number_of_repetitions,number_of_ads,repeat_every_minutes,comment,resume_at
+Alex.Mueller670358@gmail.com,Alex.Mueller101047@gmail.com,ANDROID_DEVICE_ID_6,Alex.Mueller556834@gmail.com,Alex.Mueller138063@gmail.com,ANDROID_DEVICE_ID_4,326d0b26-dfab-430c-8b55-87acb58184a2,4,252,60,cross-account pollution experiment,

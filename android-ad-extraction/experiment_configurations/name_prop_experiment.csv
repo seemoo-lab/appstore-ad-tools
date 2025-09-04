@@ -1,0 +1,11 @@
+control_account_email,control_device_serial,treatment_account_email,treatment_device_serial,group_id,signal_step,number_of_ads,number_of_repetitions,repeat_every_minutes,comment,resume_at,pre_measurement_timeout
+Alex.Mueller365974@gmail.com,ANDROID_DEVICE_ID_1,Mehmet.Yilmaz366280@gmail.com,ANDROID_DEVICE_ID_2,d3d9ebaa-52c5-483a-a835-b1771e90ade3,1,0,0,0,name property test,,0
+Alex.Mueller573718@gmail.com,ANDROID_DEVICE_ID_2,Mehmet.Yilmaz847559@gmail.com,ANDROID_DEVICE_ID_1,d3d9ebaa-52c5-483a-a835-b1771e90ade3,1,0,0,0,name property test,,0
+Alex.Mueller695583@gmail.com,ANDROID_DEVICE_ID_1,Mehmet.Yilmaz722415@gmail.com,ANDROID_DEVICE_ID_2,d3d9ebaa-52c5-483a-a835-b1771e90ade3,1,0,0,0,name property test,,0
+Alex.Mueller696398@gmail.com,ANDROID_DEVICE_ID_2,Mehmet.Yilmaz265936@gmail.com,ANDROID_DEVICE_ID_1,d3d9ebaa-52c5-483a-a835-b1771e90ade3,1,0,0,0,name property test,,0
+Alex.Mueller443938@gmail.com,ANDROID_DEVICE_ID_1,Mehmet.Yilmaz143089@gmail.com,ANDROID_DEVICE_ID_2,d3d9ebaa-52c5-483a-a835-b1771e90ade3,1,0,0,0,name property test,,0
+Alex.Mueller093912@gmail.com,ANDROID_DEVICE_ID_2,Zhang.Wei146788@gmail.com,ANDROID_DEVICE_ID_1,d3d9ebaa-52c5-483a-a835-b1771e90ade3,1,0,0,0,name property test,,0
+Alex.Mueller316999@gmail.com,ANDROID_DEVICE_ID_1,Zhang.Wei147268@gmail.com,ANDROID_DEVICE_ID_2,d3d9ebaa-52c5-483a-a835-b1771e90ade3,1,0,0,0,name property test,,0
+Alex.Mueller334546@gmail.com,ANDROID_DEVICE_ID_2,Zhang.Wei593956@gmail.com,ANDROID_DEVICE_ID_1,d3d9ebaa-52c5-483a-a835-b1771e90ade3,1,0,0,0,name property test,,0
+Alex.Mueller403135@gmail.com,ANDROID_DEVICE_ID_1,Zhang.Wei551051@gmail.com,ANDROID_DEVICE_ID_2,d3d9ebaa-52c5-483a-a835-b1771e90ade3,1,0,0,0,name property test,,0
+Alex.Mueller445966@gmail.com,ANDROID_DEVICE_ID_2,Zhang.Wei887220@gmail.com,ANDROID_DEVICE_ID_1,d3d9ebaa-52c5-483a-a835-b1771e90ade3,1,0,0,0,name property test,,0

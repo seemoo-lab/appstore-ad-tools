@@ -1,0 +1,6 @@
+control_account_email,control_device_serial,treatment_account_email,treatment_device_serial,group_id,signal_step,extract_post_personalization,number_of_ads,number_of_repetitions,repeat_every_minutes,comment,resume_at,pre_measurement_timeout
+Alex.Mueller805997@gmail.com,ANDROID_DEVICE_ID_2,Alex.Mueller737174@gmail.com,ANDROID_DEVICE_ID_1,07a2eb36-c1de-43b5-a1af-1b19403b25e9,0,1,252,3,60,sensitive gambling experiment repetition extraction,,0
+Alex.Mueller855799@gmail.com,ANDROID_DEVICE_ID_1,Alex.Mueller628796@gmail.com,ANDROID_DEVICE_ID_2,07a2eb36-c1de-43b5-a1af-1b19403b25e9,0,1,252,3,60,sensitive gambling experiment repetition extraction,,0
+Alex.Mueller755958@gmail.com,ANDROID_DEVICE_ID_2,Alex.Mueller616377@gmail.com,ANDROID_DEVICE_ID_1,07a2eb36-c1de-43b5-a1af-1b19403b25e9,0,1,252,3,60,sensitive gambling experiment repetition extraction,,0
+Alex.Mueller737553@gmail.com,ANDROID_DEVICE_ID_1,Alex.Mueller501649@gmail.com,ANDROID_DEVICE_ID_2,07a2eb36-c1de-43b5-a1af-1b19403b25e9,0,1,252,3,60,sensitive gambling experiment repetition extraction,,0
+Alex.Mueller678208@gmail.com,ANDROID_DEVICE_ID_2,Alex.Mueller667172@gmail.com,ANDROID_DEVICE_ID_1,07a2eb36-c1de-43b5-a1af-1b19403b25e9,0,1,252,3,60,sensitive gambling experiment repetition extraction,,0

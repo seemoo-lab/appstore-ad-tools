@@ -1,0 +1,6 @@
+control_account_email,control_device_serial,treatment_account_email,treatment_device_serial,group_id,signal_step,extract_post_personalization,number_of_ads,number_of_repetitions,repeat_every_minutes,comment,resume_at,pre_measurement_timeout
+Alex.Mueller996452@gmail.com,ANDROID_DEVICE_ID_1,Alex.Mueller475963@gmail.com,ANDROID_DEVICE_ID_2,1d9f9f59-171e-4369-9e59-02022e7c79d5,0,1,252,3,60,sensitive parenting experiment repetition,,0
+Alex.Mueller931063@gmail.com,ANDROID_DEVICE_ID_2,Alex.Mueller221984@gmail.com,ANDROID_DEVICE_ID_1,1d9f9f59-171e-4369-9e59-02022e7c79d5,0,1,252,3,60,sensitive parenting experiment repetition,,0
+Alex.Mueller919751@gmail.com,ANDROID_DEVICE_ID_1,Alex.Mueller401467@gmail.com,ANDROID_DEVICE_ID_2,1d9f9f59-171e-4369-9e59-02022e7c79d5,0,1,252,3,60,sensitive parenting experiment repetition,,0
+Alex.Mueller764928@gmail.com,ANDROID_DEVICE_ID_2,Alex.Mueller101069@gmail.com,ANDROID_DEVICE_ID_1,1d9f9f59-171e-4369-9e59-02022e7c79d5,0,1,252,3,60,sensitive parenting experiment repetition,,0
+Alex.Mueller539132@gmail.com,ANDROID_DEVICE_ID_1,Alex.Mueller323026@gmail.com,ANDROID_DEVICE_ID_2,1d9f9f59-171e-4369-9e59-02022e7c79d5,0,1,252,3,60,sensitive parenting experiment repetition,,0

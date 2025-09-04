@@ -1,0 +1,5 @@
+/.env
+/stats-and-figures/gen/
+/stats-and-figures/plot_cache/
+/stats-and-figures/used_cats_android.txt
+/stats-and-figures/used_cats_ios.txt

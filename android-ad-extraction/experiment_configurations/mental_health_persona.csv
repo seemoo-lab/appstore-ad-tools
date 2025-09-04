@@ -1,0 +1,6 @@
+control_account_email,control_device_serial,treatment_account_email,treatment_device_serial,group_id,signal_step,extract_post_personalization,number_of_ads,number_of_repetitions,repeat_every_minutes,comment,resume_at,pre_measurement_timeout
+Alex.Mueller543301@gmail.com,ANDROID_DEVICE_ID_2,Alex.Mueller111395@gmail.com,ANDROID_DEVICE_ID_1,150a0ac7-4af3-48c3-b9b8-0e7d2e354ee8,1,0,0,0,0,mental health persona experiment,,0
+Alex.Mueller219352@gmail.com,ANDROID_DEVICE_ID_1,Alex.Mueller437699@gmail.com,ANDROID_DEVICE_ID_2,150a0ac7-4af3-48c3-b9b8-0e7d2e354ee8,1,0,0,0,0,mental health persona experiment,,0
+Alex.Mueller858501@gmail.com,ANDROID_DEVICE_ID_2,Alex.Mueller408267@gmail.com,ANDROID_DEVICE_ID_1,150a0ac7-4af3-48c3-b9b8-0e7d2e354ee8,1,0,0,0,0,mental health persona experiment,,0
+Alex.Mueller931472@gmail.com,ANDROID_DEVICE_ID_1,Alex.Mueller599962@gmail.com,ANDROID_DEVICE_ID_2,150a0ac7-4af3-48c3-b9b8-0e7d2e354ee8,1,0,0,0,0,mental health persona experiment,,0
+Alex.Mueller300366@gmail.com,ANDROID_DEVICE_ID_2,Alex.Mueller869257@gmail.com,ANDROID_DEVICE_ID_1,150a0ac7-4af3-48c3-b9b8-0e7d2e354ee8,1,0,0,0,0,mental health persona experiment,,0

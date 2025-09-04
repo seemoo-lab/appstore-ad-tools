@@ -1,0 +1,6 @@
+control_account_email,control_device_serial,treatment_account_email,treatment_device_serial,group_id,signal_step,extract_post_personalization,number_of_ads,number_of_repetitions,repeat_every_minutes,comment,resume_at,pre_measurement_timeout
+Alex.Mueller278756@gmail.com,ANDROID_DEVICE_ID_1,Alex.Mueller968483@gmail.com,ANDROID_DEVICE_ID_2,805063aa-0fe6-4ad6-b09c-3c528aaf01f1,1,0,0,0,0,sensitive weight loss experiment repetition,,0
+Alex.Mueller078804@gmail.com,ANDROID_DEVICE_ID_2,Alex.Mueller958644@gmail.com,ANDROID_DEVICE_ID_1,805063aa-0fe6-4ad6-b09c-3c528aaf01f1,1,0,0,0,0,sensitive weight loss experiment repetition,,0
+Alex.Mueller065732@gmail.com,ANDROID_DEVICE_ID_1,Alex.Mueller900510@gmail.com,ANDROID_DEVICE_ID_2,805063aa-0fe6-4ad6-b09c-3c528aaf01f1,1,0,0,0,0,sensitive weight loss experiment repetition,,0
+Alex.Mueller959808@gmail.com,ANDROID_DEVICE_ID_2,Alex.Mueller859752@gmail.com,ANDROID_DEVICE_ID_1,805063aa-0fe6-4ad6-b09c-3c528aaf01f1,1,0,0,0,0,sensitive weight loss experiment repetition,,0
+Alex.Mueller986828@gmail.com,ANDROID_DEVICE_ID_1,Alex.Mueller909815@gmail.com,ANDROID_DEVICE_ID_2,805063aa-0fe6-4ad6-b09c-3c528aaf01f1,1,0,0,0,0,sensitive weight loss experiment repetition,,0

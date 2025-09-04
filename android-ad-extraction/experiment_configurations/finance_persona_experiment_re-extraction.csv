@@ -1,0 +1,6 @@
+control_account_email,control_device_serial,treatment_account_email,treatment_device_serial,group_id,signal_step,extract_post_personalization,number_of_ads,number_of_repetitions,repeat_every_minutes,comment,resume_at,pre_measurement_timeout
+Alex.Mueller889835@gmail.com,ANDROID_DEVICE_ID_2,Alex.Mueller537619@gmail.com,ANDROID_DEVICE_ID_1,ea659457-b66e-4a5d-9a9b-fb5653c0ed10,0,0,252,3,60,finance persona test (re-extraction),,0
+Alex.Mueller360243@gmail.com,ANDROID_DEVICE_ID_1,Alex.Mueller643954@gmail.com,ANDROID_DEVICE_ID_2,ea659457-b66e-4a5d-9a9b-fb5653c0ed10,0,0,252,3,60,finance persona test (re-extraction),,0
+Alex.Mueller339590@gmail.com,ANDROID_DEVICE_ID_2,Alex.Mueller793272@gmail.com,ANDROID_DEVICE_ID_1,ea659457-b66e-4a5d-9a9b-fb5653c0ed10,0,0,252,3,60,finance persona test (re-extraction),,0
+Alex.Mueller314667@gmail.com,ANDROID_DEVICE_ID_1,Alex.Mueller453146@gmail.com,ANDROID_DEVICE_ID_2,ea659457-b66e-4a5d-9a9b-fb5653c0ed10,0,0,252,3,60,finance persona test (re-extraction),,0
+Alex.Mueller474928@gmail.com,ANDROID_DEVICE_ID_2,Alex.Mueller368126@gmail.com,ANDROID_DEVICE_ID_1,ea659457-b66e-4a5d-9a9b-fb5653c0ed10,0,0,252,3,60,finance persona test (re-extraction),,0

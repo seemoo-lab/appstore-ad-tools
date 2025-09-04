@@ -1,0 +1,6 @@
+control_account_email,control_device_serial,treatment_account_email,treatment_device_serial,group_id,signal_step,extract_post_personalization,number_of_ads,number_of_repetitions,repeat_every_minutes,comment,resume_at,pre_measurement_timeout
+Alex.Mueller366013@gmail.com,ANDROID_DEVICE_ID_1,Alex.Mueller918886@gmail.com,ANDROID_DEVICE_ID_2,cab5eaba-fda2-488d-a1d8-eaf1ffa3b9b9,1,0,0,0,0,cross-device baseline,,0
+Alex.Mueller533061@gmail.com,ANDROID_DEVICE_ID_2,Alex.Mueller048848@gmail.com,ANDROID_DEVICE_ID_1,cab5eaba-fda2-488d-a1d8-eaf1ffa3b9b9,1,0,0,0,0,cross-device baseline,,0
+Alex.Mueller744878@gmail.com,ANDROID_DEVICE_ID_1,Alex.Mueller234241@gmail.com,ANDROID_DEVICE_ID_2,cab5eaba-fda2-488d-a1d8-eaf1ffa3b9b9,1,0,0,0,0,cross-device baseline,,0
+Alex.Mueller244309@gmail.com,ANDROID_DEVICE_ID_2,Alex.Mueller326305@gmail.com,ANDROID_DEVICE_ID_1,cab5eaba-fda2-488d-a1d8-eaf1ffa3b9b9,1,0,0,0,0,cross-device baseline,,0
+Alex.Mueller319547@gmail.com,ANDROID_DEVICE_ID_1,Alex.Mueller362349@gmail.com,ANDROID_DEVICE_ID_2,cab5eaba-fda2-488d-a1d8-eaf1ffa3b9b9,1,0,0,0,0,cross-device baseline,,0

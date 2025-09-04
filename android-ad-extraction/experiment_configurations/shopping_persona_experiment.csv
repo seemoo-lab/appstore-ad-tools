@@ -1,0 +1,6 @@
+control_account_email,control_device_serial,treatment_account_email,treatment_device_serial,group_id,signal_step,extract_post_personalization,number_of_ads,number_of_repetitions,repeat_every_minutes,comment,resume_at,pre_measurement_timeout
+Alex.Mueller965450@gmail.com,ANDROID_DEVICE_ID_2,Alex.Mueller070844@gmail.com,ANDROID_DEVICE_ID_1,1b89b22e-486f-4b22-aac5-e39fa5117b7f,1,0,0,0,0,shopping persona experiment,,0
+Alex.Mueller736677@gmail.com,ANDROID_DEVICE_ID_1,Alex.Mueller634436@gmail.com,ANDROID_DEVICE_ID_2,1b89b22e-486f-4b22-aac5-e39fa5117b7f,1,0,0,0,0,shopping persona experiment,,0
+Alex.Mueller781462@gmail.com,ANDROID_DEVICE_ID_2,Alex.Mueller742610@gmail.com,ANDROID_DEVICE_ID_1,1b89b22e-486f-4b22-aac5-e39fa5117b7f,1,0,0,0,0,shopping persona experiment,,0
+Alex.Mueller113578@gmail.com,ANDROID_DEVICE_ID_1,Alex.Mueller575692@gmail.com,ANDROID_DEVICE_ID_2,1b89b22e-486f-4b22-aac5-e39fa5117b7f,1,0,0,0,0,shopping persona experiment,,0
+Alex.Mueller292651@gmail.com,ANDROID_DEVICE_ID_2,Alex.Mueller301666@gmail.com,ANDROID_DEVICE_ID_1,1b89b22e-486f-4b22-aac5-e39fa5117b7f,1,0,0,0,0,shopping persona experiment,,0

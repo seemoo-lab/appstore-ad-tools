@@ -1,0 +1,7 @@
+matplotlib
+pandas
+psycopg[binary]
+seaborn
+python-dotenv
+scikit-learn
+IPython

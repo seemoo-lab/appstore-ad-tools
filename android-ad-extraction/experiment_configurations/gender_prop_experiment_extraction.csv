@@ -1,0 +1,7 @@
+control_account_email,control_device_serial,treatment_account_email,treatment_device_serial,group_id,signal_step,extract_post_personalization,number_of_ads,number_of_repetitions,repeat_every_minutes,comment,resume_at,pre_measurement_timeout
+Alexander.Mueller610935@gmail.com,ANDROID_DEVICE_ID_2,Anna.Mueller780807@gmail.com,ANDROID_DEVICE_ID_1,3bbc0228-16d2-43f9-a36d-b441b710a795,0,1,252,3,60,gender property experiment,,0
+Julia.Mueller526031@gmail.com,ANDROID_DEVICE_ID_2,Daniel.Mueller030039@gmail.com,ANDROID_DEVICE_ID_1,3bbc0228-16d2-43f9-a36d-b441b710a795,0,1,252,3,60,gender property experiment,,0
+Lukas.Mueller409246@gmail.com,ANDROID_DEVICE_ID_2,Laura.Mueller011486@gmail.com,ANDROID_DEVICE_ID_1,3bbc0228-16d2-43f9-a36d-b441b710a795,0,1,252,3,60,gender property experiment,,0
+Maria.Mueller556890@gmail.com,ANDROID_DEVICE_ID_2,Maximilian.Mueller424515@gmail.com,ANDROID_DEVICE_ID_1,3bbc0228-16d2-43f9-a36d-b441b710a795,0,1,252,3,60,gender property experiment,,0
+Philipp.Mueller130325@gmail.com,ANDROID_DEVICE_ID_2,Sophia.Mueller178826@gmail.com,ANDROID_DEVICE_ID_1,3bbc0228-16d2-43f9-a36d-b441b710a795,0,1,252,3,60,gender property experiment,,0
+

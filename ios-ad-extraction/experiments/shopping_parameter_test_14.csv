@@ -1,0 +1,7 @@
+email0,email1,number_of_ads,number_of_repetitions,repeat_every_minutes,group_id,comment,signal,extract,repeat_unpersonalized
+Alex-Mueller000067@seemoo.de,Alex-Mueller000066@seemoo.de,120,3,60,2F1A4282-C80D-434D-B68B-6AE0D157FDA3,"parameter test: 14",n,y,y
+Alex-Mueller000068@seemoo.de,Alex-Mueller000069@seemoo.de,120,3,60,2F1A4282-C80D-434D-B68B-6AE0D157FDA3,"parameter test: 14R",y,y,y
+Alex-Mueller000056@seemoo.de,Alex-Mueller000057@seemoo.de,120,3,60,2F1A4282-C80D-434D-B68B-6AE0D157FDA3,"parameter test: 3 repeat extraction",n,y,n
+Alex-Mueller000060@seemoo.de,Alex-Mueller000062@seemoo.de,120,3,60,2F1A4282-C80D-434D-B68B-6AE0D157FDA3,"parameter test: 3R repeat extractiion",n,y,n
+Alex-Mueller000063@seemoo.de,Alex-Mueller000064@seemoo.de,120,3,60,2F1A4282-C80D-434D-B68B-6AE0D157FDA3,"parameter test: 7 repeat extraction",n,y,n
+Alex-Mueller000061@seemoo.de,Alex-Mueller000065@seemoo.de,120,3,60,2F1A4282-C80D-434D-B68B-6AE0D157FDA3,"parameter test: 7R repeat extraction",n,y,n
