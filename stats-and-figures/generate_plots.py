@@ -1397,7 +1397,7 @@ def create_all():
     jaccard_sim_heatmap('interest_persona', ios_personas, 'ios', True, 'ad', 0.678, cur)
     jaccard_sim_heatmap('interest_persona', ios_personas, 'ios', False, 'ad', 0.678, cur)
 
-    label_freq_heatmap(android_personas, 'android', None, 'ad', cur)
+    # label_freq_heatmap(android_personas, 'android', None, 'ad', cur)
 
     # We decided to not include this table in the final paper.
     # gen_unique_app_table(android_all, 'android', None, cur)

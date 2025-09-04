@@ -30,11 +30,10 @@ The experiment described in the following sections were performed an off-the-she
 OS Version: Nothing special needed. We tested everything on macOS 15.6.1 (arm64) and Debian 6.12.38-1 (x86_64).
 
 Needed OS Packages: 
-- Python >= 3.12 
-- R >= 4.5.1
-- Docker 28.3.3 (containerd 1.7.27)
+- Python >= 3.12
+- Python venv
+- Docker 28.3.3 (containerd 1.7.27) -- Consider adding yourself to the `docker` group if you are on Linux.
 - All Python requirements are documented in `requirements.txt` files alongside the python scripts.
-- All R requirements are automatically installed as part of the R scripts.
 - Our dataset can be downloaded here (https://doi.org/10.5281/zenodo.17037784). It is automatically downloaded by the provided postgres docker container.
 
 ### Estimated Time and Storage Consumption
@@ -114,7 +113,7 @@ You can run the following docker container to recreate Table 1 of our paper.
 This command takes approx. 1 hour to complete.
 ```sh
 docker build -t r-chi-square stats-and-figures/r_scripts
-docker run -v stats-and-figures/gen:/usr/local/src/gen --name r-chi-square --network app-store-network r-chi-square
+docker run -v "$PWD/stats-and-figures/gen":/usr/local/src/gen --name r-chi-square --network app-store-network r-chi-square
 ```
 
 The table is stored as `stats-and-figures/gen/chi_square_table.csv`.
@@ -124,9 +123,15 @@ The resulting table is stored as `gen/chi_square_table.csv` and resembles Table 
 #### Experiment 2: Generating Figures
 Run the `generate_plots.py` script to generate Figures 4 to 9:
 ```bash
-python3 stats-and-figures/database/generate_plots.py
+cd stats-and-figures/
+python3 generate_plots.py
 ```
-The resulting figure files are written to `gen/`.
+The resulting figure files are written to `gen/`. Their filenames indicate which figure they belong to, with the exception of these additional files that are supplementary material:
+- `android_ad_app_name_flamegraph_both_full.png`: Full version of the Figure 5.a) data. 
+- `android_suggestion_app_name_flamegraph_both_full.png`: Full version of the Figure 5.b) data. 
+- `ios_ad_app_name_flamegraph_search_full.png`: Full version of the Figure 5.c) data. 
+- `ios_ad_app_name_flamegraph_today_full.png`: Full version of the Figure 5.d) data. 
+
 
 
 ## Limitations

@@ -1,4 +1,4 @@
-# pets2026-first-party-tracking-artifact
+# App Store Ad Tools
 Artifact for our `Ad Personalization and Transparency in Mobile Ecosystems: A Comparative Analysis of Google’s and Apple’s EU App Stores` paper to be published in Proceedings on Privacy Enhancing Technologies 2026 (Issue 1).
 
 ## Global Setup
