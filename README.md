@@ -1,5 +1,5 @@
 # App Store Ad Tools
-Artifact for our `Ad Personalization and Transparency in Mobile Ecosystems: A Comparative Analysis of Google’s and Apple’s EU App Stores` paper to be published in Proceedings on Privacy Enhancing Technologies 2026 (Issue 1).
+Artifact for our [`Ad Personalization and Transparency in Mobile Ecosystems: A Comparative Analysis of Google’s and Apple’s EU App Stores`](https://doi.org/10.56553/popets-2026-0031) paper published in Proceedings on Privacy Enhancing Technologies 2026 (Issue 1).
 
 ## Global Setup
 Copy sample.env to .env and set values to reflect your environment:
